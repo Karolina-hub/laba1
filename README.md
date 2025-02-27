@@ -1,2 +1,1 @@
 # laba1
-# chill
